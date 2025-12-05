@@ -24,7 +24,7 @@
     R -- Yok --> N["Base Price Uygula"]
     M --> S["Slot Bilgisi Hazırla"]
     N --> S
-    S --> T["Fiyat + has_custom_price Flag Hazırla"]
+    S --> T["Fiyat Hazırla"]
     T --> Z
 
 ```
